@@ -1,9 +1,7 @@
-Litone
+﻿Litone
 =================
 
-This is the home of the Litone 3D printer
-
-This printer design takes a lot of inspiration from Graber i3 issued from the prusa I3.
+Le dessin de cette imprimante est inspirée de la Graber i3 issued from the prusa I3.
 
 Prusa i3 printer:
 http://reprap.org/wiki/Prusa_i3_Build_Manual#Single_Sheet_Frame_Style
