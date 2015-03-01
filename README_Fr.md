@@ -1,4 +1,4 @@
-﻿Litone
+﻿Litone V1.1
 =================
 
 Le dessin de cette imprimante est inspirée de la Graber i3 issued from the prusa I3.
@@ -26,6 +26,12 @@ vous choisirez et aussi de la configuration du lit chauffant.
 
 Si vous trouvez un bug, n'hésitez pas à me le notifier, j'essyareai dans la mesure du possible
 de le corriger.
+
+Modifications
+=============
+Evolution du format de la caisse pour obtenir un volume d'impression de 200x200x200mm
+Position de la fente pour le fil sur le dessus de la machine
+Modification en concéquence des longueurs de tiges filetées et barres de guidage.
 
 License
 =======
