@@ -1,4 +1,4 @@
-Litone
+Litone V1.1
 =================
 
 This is the home of the Litone 3D printer
@@ -26,6 +26,13 @@ The overall build envelope dimensions remain the same as the Prusa i3, which is
 200mm x 200mm x 150mm.
 
 If you find a bug, I welcome notifications, fixes, and even new contributions.
+
+Modifications
+=============
+
+Evolution of the box size to have a volume printing of 200x200x200mm.
+Slot position for the wire on the top of the machine.
+Change in concequence lengths of threaded rods and guide rods.
 
 License
 =======
